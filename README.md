@@ -1,2 +1,2 @@
 # Progress
-recorn of my progress through computer science
+just a record of my progress while pursuing computer science...
